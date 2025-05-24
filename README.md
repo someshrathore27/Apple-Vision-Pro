@@ -9,6 +9,7 @@ Locomotive Scroll for smooth, interactive scrolling
 
 Video backgrounds for immersive sections
 
+Canva for objects to move like a natural one on scrolling
 🔥 Key Features
 ✅ Pixel-perfect UI replicating Apple's design
 ✅ Smooth scroll-triggered animations
